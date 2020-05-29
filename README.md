@@ -1,4 +1,4 @@
-# terra-cross-rate-computation-analysis
+# Terra cross-rate computation analysis
 
 **Github Issue**
 
