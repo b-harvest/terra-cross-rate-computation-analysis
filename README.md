@@ -1,7 +1,8 @@
 **Github Issue**
 
 [https://github.com/terra-project/core/issues/342](https://github.com/terra-project/core/issues/342)
-<br /><br />
+
+
 **Related Analysis**
 
 [https://medium.com/@contact_91159/terra-sdr-arbitrage-and-cross-rate-calculation-a77bfee70ca0](https://medium.com/@contact_91159/terra-sdr-arbitrage-and-cross-rate-calculation-a77bfee70ca0)
